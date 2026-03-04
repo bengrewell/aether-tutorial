@@ -6,10 +6,10 @@ const config = {
   tagline: 'Build a private 5G telco lab with Aether SD-Core and srsRAN using ORAN Split 7.2',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-org.github.io',
+  url: 'https://bengrewell.github.io',
   baseUrl: '/aether-tutorial/',
 
-  organizationName: 'your-org',
+  organizationName: 'bengrewell',
   projectName: 'aether-tutorial',
 
   onBrokenLinks: 'throw',
@@ -27,7 +27,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/your-org/aether-tutorial/tree/main/',
+          editUrl: 'https://github.com/bengrewell/aether-tutorial/tree/main/',
         },
         blog: false,
         theme: {
@@ -59,7 +59,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/your-org/aether-tutorial',
+            href: 'https://github.com/bengrewell/aether-tutorial',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,7 +115,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/your-org/aether-tutorial',
+                href: 'https://github.com/bengrewell/aether-tutorial',
               },
             ],
           },

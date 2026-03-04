@@ -1,5 +1,5 @@
 {
-  "label": "Kubernetes Deployment",
+  "label": "☸️ Kubernetes Deployment",
   "position": 8,
   "description": "Production-grade Kubernetes deployment with SR-IOV, CPU Manager, and Aether OnRamp."
 }

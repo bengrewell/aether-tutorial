@@ -1,5 +1,5 @@
 {
-  "label": "RAN Deployment",
+  "label": "📡 RAN Deployment",
   "position": 5,
   "description": "Build srsRAN from source, configure the gNB, validate in testmode, and optimize RF parameters."
 }

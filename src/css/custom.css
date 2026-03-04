@@ -54,6 +54,12 @@
   margin-top: 0;
 }
 
+/* Emoji spacing in sidebar category labels */
+.menu__link--sublist-caret::before,
+.menu__caret::before {
+  margin-right: 0.1em;
+}
+
 .badge--coming-soon {
   background-color: var(--ifm-color-warning-dark);
   color: white;

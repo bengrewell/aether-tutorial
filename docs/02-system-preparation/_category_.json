@@ -1,5 +1,5 @@
 {
-  "label": "System Preparation",
+  "label": "🖥️ System Preparation",
   "position": 2,
   "description": "OS installation, real-time kernel, TuneD profiles, and CPU isolation for deterministic performance."
 }

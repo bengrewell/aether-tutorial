@@ -1,5 +1,5 @@
 {
-  "label": "Advanced Topics",
+  "label": "⚡ Advanced Topics",
   "position": 9,
   "description": "Network slicing, monitoring, DPDK-accelerated UPF, and multi-cell deployments."
 }

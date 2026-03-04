@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Aether SD-Core + srsRAN Lab Guide. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Aether SD-Core + srsRAN Lab Guide.`,
       },
       prism: {
         theme: require('prism-react-renderer').themes.github,

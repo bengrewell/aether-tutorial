@@ -1,0 +1,5 @@
+{
+  "label": "Network Configuration",
+  "position": 3,
+  "description": "Network topology, DPDK setup, and NIC optimization for high-throughput fronthaul and backhaul."
+}

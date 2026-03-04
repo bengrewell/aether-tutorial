@@ -1,0 +1,5 @@
+{
+  "label": "Timing & Synchronization",
+  "position": 4,
+  "description": "PTP configuration with LinuxPTP for nanosecond-accurate synchronization required by ORAN Split 7.2."
+}
